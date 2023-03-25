@@ -1,0 +1,10 @@
+#img-avader{
+	border-radius: 50%;
+	border: 2px solid #9ACF9F;
+	width: 60px;
+}
+#backimg{
+	max-height: 100%;
+	width: 100%;
+	object-fit: cover;
+}
