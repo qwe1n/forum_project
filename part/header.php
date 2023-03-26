@@ -17,9 +17,7 @@
       </div>
     </div>
     <div class="row clearfix">
-      <div class="col-md-1 column">
-        <button type="button" class="btn btn-default btn-info btn-block"><a href="log_in.html" style="color: white;">登录</a></button>
-      </div>
+      
       <div class="col-md-10 column">
         <div class="row clearfix">
           <div class="col-md-1 column">
@@ -32,6 +30,9 @@
         <div class="row clearfix">
           <div class="col-md-2 column">
             <img alt="头像" src="image/avader.jpg" id="img-avader" />
+          </div>
+          <div class="col-md-1 column">
+            <button type="button" class="btn btn-default btn-info btn-block"><a href="sign_in.php" style="color: white;">登录</a></button>
           </div>
           <div class="col-md-10 column">
             <nav class="navbar navbar-default navbar-static-top" role="navigation">
@@ -75,6 +76,3 @@
       </div>
     </div>
   </div>
-</body>
-
-</html>
